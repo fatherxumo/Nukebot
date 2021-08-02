@@ -107,5 +107,5 @@ async def e(ctx):
     await ctx.send("No")
 
 
-client.run(os.getenv('TOKEN'))
+client.run(os.getenv('ODcxNzYzMDUyOTc3MDc0MTk3.YQgCnA.ZwnsMQ_PiyxlDXYeicGUfKsuCMo'))
 
